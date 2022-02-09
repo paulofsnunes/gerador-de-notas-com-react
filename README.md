@@ -1,4 +1,4 @@
-# Estudos com react.js
+# Estudos com React.js
 
 ## Criei um gerador de notas
 
